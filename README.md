@@ -34,13 +34,6 @@ I enjoy turning creative ideas into real-world mobile solutions using Flutter & 
 
 ---
 
-### 📈 **GitHub Stats**
-![Shohag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiul-basir-46&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiul-basir-46&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 **Connect With Me**
 📧 **Email:** samiul45basir@gmail.com  
 💻 **GitHub:** [github.com/samiul-basir-46](https://github.com/samiul-basir-46)
