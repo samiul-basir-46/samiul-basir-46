@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Samiul Basir Shohag!
-
 ### 🚀 Flutter Developer | Mobile App Enthusiast | UI/UX Learner
-
 I'm a passionate Flutter developer who loves building beautiful, responsive, and functional mobile applications.  
 I enjoy turning creative ideas into real-world mobile solutions using Flutter & Dart.
 
@@ -34,26 +32,17 @@ I enjoy turning creative ideas into real-world mobile solutions using Flutter & 
 
 ---
 
+### 🚀 **Published Apps**
+| App | Platform | Link |
+|-----|----------|------|
+| 📸 **U Photo Studio** | 🍎 App Store | [Download on App Store](https://apps.apple.com/us/app/u-photo-studio/id6761320322) |
+
+---
+
 ### 🌐 **Connect With Me**
 📧 **Email:** samiul45basir@gmail.com  
 💻 **GitHub:** [github.com/samiul-basir-46](https://github.com/samiul-basir-46)
 
 ---
 
-⭐ *“Code. Create. Contribute. Repeat.”*
-## Hi there 👋
-
-<!--
-**samiul-basir-46/samiul-basir-46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *"Code. Create. Contribute. Repeat."*
