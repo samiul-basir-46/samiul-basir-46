@@ -5,6 +5,18 @@ I enjoy turning creative ideas into real-world mobile solutions using Flutter & 
 
 ---
 
+### 📊 **My GitHub Stats & Streaks**
+<!-- এখানে আপনার স্ট্রিক এবং ওভারঅল স্ট্যাটাস দেখাবে -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiul-basir-46&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samiul-basir-46&show_icons=true&theme=dark" alt="Samiul's GitHub Stats" />
+</p>
+
+---
+
 ### 🌟 **About Me**
 - 💡 Focused on building cross-platform apps with clean UI and modern architecture  
 - 📱 Experienced with API-based and Firebase-integrated Flutter projects  
@@ -36,6 +48,12 @@ I enjoy turning creative ideas into real-world mobile solutions using Flutter & 
 | App | Platform | Link |
 |-----|----------|------|
 | 📸 **U Photo Studio** | 🍎 App Store | [Download on App Store](https://apps.apple.com/us/app/u-photo-studio/id6761320322) |
+
+---
+
+### 📈 **Contribution Graph**
+<!-- এখানে পুরো বছরের কন্ট্রিবিউশন কার্ভ গ্রাফ দেখাবে -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=samiul-basir-46&theme=react-dark)
 
 ---
 
