@@ -32,10 +32,14 @@ I enjoy turning creative ideas into real-world mobile solutions using Flutter & 
 
 ---
 
-### 🚀 **Published Apps**
+### 🚀 Published Apps
+
+I have developed and published the following applications:
+
 | App | Platform | Link |
-|-----|----------|------|
+| :--- | :--- | :--- |
 | 📸 **U Photo Studio** | 🍎 App Store | [Download on App Store](https://apps.apple.com/us/app/u-photo-studio/id6761320322) |
+| 🧠 **Therappai** | 🤖 Play Store | [Download on Play Store](https://play.google.com/store/apps/details?id=com.therappai.app) |
 
 ---
 
