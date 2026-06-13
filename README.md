@@ -40,7 +40,7 @@ I have developed and published the following applications:
 | :--- | :--- | :--- |
 | 📸 **U Photo Studio** | 🍎 App Store | [Download on App Store](https://apps.apple.com/us/app/u-photo-studio/id6761320322) |
 | 🧠 **Therappai** | 🤖 Play Store | [Download on Play Store](https://play.google.com/store/apps/details?id=com.therappai.app) |
-| 🧠 **LystaJob** | 🤖 Play Store | [Download on Play Store](https://play.google.com/store/apps/details?id=com.lystajob.carlotto) |
+| 🔧 **LystaJob** | 🤖 Play Store | [Download on Play Store](https://play.google.com/store/apps/details?id=com.lystajob.carlotto) |
 
 ---
 
