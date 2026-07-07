@@ -67,7 +67,7 @@ I have developed and published the following applications on both major platform
 ### 🌐 **Connect With Me**
 
 📧 **Email:** samiul45basir@gmail.com  
-💻 **GitHub:** [github.com/samiul-basir-46](https://github.com/samiul-basir-46)
+💻 **GitHub:** [samiul-basir-46](https://github.com/samiul-basir-46)
 
 ---
 
