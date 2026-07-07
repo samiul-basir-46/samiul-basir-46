@@ -44,7 +44,7 @@ I have developed and published the following applications on both major platform
 | 📸 **U Photo Studio** | 🍎 App Store | ✅ Live | [Download on App Store](https://apps.apple.com/us/app/u-photo-studio/id6761320322) |
 | 🧠 **Therappai** | 🤖 Play Store | ✅ Live | [Download on Play Store](https://play.google.com/store/apps/details?id=com.therappai.app) |
 | 🔧 **LystaJob** | 🤖 Play Store | ✅ Live | [Download on Play Store](https://play.google.com/store/apps/details?id=com.lystajob.carlotto) |
-| 🔧 **LystaJob** | 🍎 App Store | 🔄 Coming Soon | — |
+| 🔧 **LystaJob** | 🍎 App Store | ✅ Live | [Download on App Store](https://apps.apple.com/us/app/lystajob/id6758605988) |
 
 ---
 
